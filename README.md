@@ -11,9 +11,9 @@
 - Pressing right mouse button will write O on specified Rectangle
 - If it's not O turn and then pressing Right mouse button will do nothing
 - Double click with Left mouse button on any black line on grid will reset the game and game will start again. (Yes it's not a good user friendly way to reset game)
-- Resetting the Game will erase all X and O symbols from grid ans starts the game again.
+- Resetting the Game will erase all X and O symbols from grid and starts the game again.
 - As soon as X or O wins, Message will be displayed with winner player name and Game will be reset again.
-- if all grid rectangles are filled and no player wins, then Draw message will be shown and Game grid will be reset to start the game again.
+- if all grid rectangles are filled and no player wins, then 'Game Draw' message will be shown and Game grid will be reset to start the game again.
 
 ## COMPATIBILITY
 
